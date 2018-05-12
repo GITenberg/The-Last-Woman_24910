@@ -1,0 +1,24 @@
+_repo: The-Last-Woman_24910
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 24910-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Beeckman, Ross
+    gutenberg_agent_id: '26482'
+    url: http://www.gutenberg.org/2009/agents/26482
+description: ''
+gutenberg_issued: '2008-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24910'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcc 'PS'
+title: The Last Woman
+url: http://www.gutenberg.org/ebooks/24910
